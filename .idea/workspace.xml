@@ -4,26 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a2d935b-709d-4ff9-83fa-73f9f45220ee" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.java-version" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/interview/LBRegistry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/interview/RevolutTestApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/interview/exceptions/TooManyURLsException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/interview/impl/LBRegistryImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/interview/LBRegistryTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/interview/RevolutTestApplicationTests.java" afterDir="false" />
+    <list default="true" id="4a2d935b-709d-4ff9-83fa-73f9f45220ee" name="Changes" comment="I haven't done production coding for 3 years and went on a coding interview, what happened next - SHOCKED EVERYONE!">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/interview/impl/LBRegistryImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/interview/impl/LBRegistryImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,6 +59,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="1ae41ace-999a-40e8-9ea3-b3321256b597" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -88,7 +74,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "dart.analysis.tool.window.visible": "false",
-    "last_directory_selection": "/Users/vladislav/work/RevolutTestProjct/src/main/java/org/interview"
+    "last_directory_selection": "/Users/vladislav/work/RevolutTestProjct/src/main/java/org/interview",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -237,6 +224,14 @@
       <option name="presentableId" value="Default" />
       <updated>1669909686149</updated>
     </task>
+    <task id="LOCAL-00001" summary="I haven't done production coding for 3 years and went on a coding interview, what happened next - SHOCKED EVERYONE!">
+      <created>1669989365889</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669989365889</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -249,5 +244,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Init" />
+    <MESSAGE value="I haven't done production coding for 3 years and went on a coding interview, what happened next - SHOCKED EVERYONE!" />
+    <option name="LAST_COMMIT_MESSAGE" value="I haven't done production coding for 3 years and went on a coding interview, what happened next - SHOCKED EVERYONE!" />
   </component>
 </project>
